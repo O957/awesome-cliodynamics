@@ -1,10 +1,16 @@
 # Awesome Cliodynamics [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A curated list of awesome resources for cliodynamics — the quantitative study of historical dynamics and long-term social processes.
+_A curated list of awesome resources for cliodynamics._
 
-Cliodynamics is "...is a transdisciplinary area of research integrating historical macrosociology, cultural and social evolution, economic history/cliometrics, mathematical modeling of long-term social processes, and the construction and analysis of historical databases" [^description_reference].
+<details markdown=1>
 
-[^description_reference]: _Cliodynamics: The Journal of Quantitative History and Cultural Evolution._ University of California, eScholarship. Accessed October 21, 2025. <https://escholarship.org/uc/cliodynamics>.
+<summary> Definition From Wikipedia </summary>
+
+> **Cliodynamics** ([/ˌkliːoʊdaɪˈnæmɪks/](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English")) is a [transdisciplinary](https://en.wikipedia.org/wiki/Transdisciplinarity "Transdisciplinarity") area of research that integrates [cultural evolution](https://en.wikipedia.org/wiki/Cultural_evolution "Cultural evolution"), [economic history](https://en.wikipedia.org/wiki/Economic_history "Economic history")/[cliometrics](https://en.wikipedia.org/wiki/Cliometrics "Cliometrics"), [macrosociology](https://en.wikipedia.org/wiki/Macrosociology "Macrosociology"), the mathematical modeling of historical processes during the *[longue durée](https://en.wikipedia.org/wiki/Longue_dur%C3%A9e "Longue durée")*, and the construction and analysis of historical databases. [1](https://en.wikipedia.org/wiki/Cliodynamics#cite_note-FOOTNOTETurchin2008-1) [^wikipedia_citation]
+
+[^wikipedia_citation]: Wikipedia contributors. "Cliodynamics." Wikipedia. Last modified September 28, 2025. Accessed October 24, 2025. <https://en.wikipedia.org/wiki/Cliodynamics>.
+
+</details>
 
 ## Contents
 
@@ -62,8 +68,13 @@ Cliodynamics is "...is a transdisciplinary area of research integrating historic
 
 ## Organizations
 
+### GitHub Organizations
+
+- [Seshat Global History Databank](https://github.com/seshat-ga): International collaboration maintaining the Seshat historical databases.
+
+### Other Organizations
+
 - [Complexity Science Hub Vienna](https://www.csh.ac.at/): Major center for computational social science and cliodynamics.
-- [Seshat Databank Team](http://seshatdatabank.info/people/): International collaboration of researchers building historical databases.
 - [Evolution Institute](https://evolution-institute.org/): Applies evolutionary science to social issues, including cliodynamics.
 
 ## Researchers
