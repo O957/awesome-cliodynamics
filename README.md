@@ -10,12 +10,13 @@ Cliodynamics is "...is a transdisciplinary area of research integrating historic
 
 - [Books](#books)
 - [Journals](#journals)
+- [Conferences](#conferences)
 - [Organizations](#organizations)
 - [Researchers](#researchers)
 - [Courses](#courses)
-- [Papers](#papers)
+- [Reading Lists](#reading-lists)
 - [Repositories](#repositories)
-- [Databases](#databases)
+- [Datasets](#datasets)
 - [Software](#software)
 - [Websites](#websites)
 - [Educational Resources](#educational-resources)
@@ -29,13 +30,9 @@ Cliodynamics is "...is a transdisciplinary area of research integrating historic
 - [Ages of Discord: A Structural-Demographic Analysis of American History](https://www.amazon.com/Ages-Discord-Structural-Demographic-Analysis-American/dp/0996139540): Application of cliodynamic theory to American history.
 - [End Times: Elites, Counter-Elites, and the Path of Political Disintegration](https://www.penguinrandomhouse.com/books/671801/end-times-by-peter-turchin/): Recent analysis of elite overproduction and political instability.
 
-## Papers
+## Reading Lists
 
-- [Arise 'cliodynamics'](https://www.nature.com/articles/454034a): Peter Turchin's 2008 Nature commentary introducing cliodynamics.
-- [A Theory for Formation of Large Empires](https://www.journals.uchicago.edu/doi/abs/10.1086/508033): Mathematical model for empire formation.
-- [Modeling Social Pressures Toward Political Instability](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0467.2012.00427.x): Structural-demographic model of instability.
-- [War, space, and the evolution of Old World complex societies](https://www.pnas.org/doi/10.1073/pnas.1308825110): Quantitative analysis of warfare and social complexity.
-- [Quantitative historical analysis uncovers a single dimension of complexity that structures global variation in human social organization](https://www.pnas.org/doi/10.1073/pnas.1708800115): Analysis of Seshat databank revealing complexity dimension.
+- [O957's Papers](assets/o957_reading_list.md)
 
 ## Repositories
 
@@ -43,7 +40,7 @@ Cliodynamics is "...is a transdisciplinary area of research integrating historic
 - [cliodynamics R package](https://github.com/ctesta01/cliodynamics): R tools for cliodynamic analysis.
 - [Turchin's Historical Dynamics code](https://github.com/ptrdo/turchin): Implementation of models from Historical Dynamics.
 
-## Databases
+## Datasets
 
 - [Seshat Global History Databank](http://seshatdatabank.info/): Systematically coded data on social complexity and other variables for world regions.
 - [CERL Historical Datasets](http://www.cerl.org/): Various historical databases useful for cliodynamic analysis.
@@ -55,6 +52,13 @@ Cliodynamics is "...is a transdisciplinary area of research integrating historic
 - [Cliodynamics: The Journal of Quantitative History and Cultural Evolution](https://escholarship.org/uc/irows_cliodynamics): Primary peer-reviewed journal for the field.
 - [Journal of Global History](https://www.cambridge.org/core/journals/journal-of-global-history): Publishes cliodynamic studies.
 - [Social Evolution & History](http://www.sociostudies.org/journal/seh/): Includes cliodynamic research.
+
+## Conferences
+
+- [International Conference on Complex Systems (ICCS)](https://necsi.edu/iccs): Annual meeting covering complex systems including cliodynamics.
+- [Social Simulation Conference](https://ssc.journalhosting.ucalgary.ca/): Biennial conference on social simulation and computational social science.
+- [Human Behavior and Evolution Society (HBES) Annual Meeting](https://www.hbes.com/): Conference on evolutionary approaches to human behavior.
+- [American Anthropological Association (AAA) Annual Meeting](https://www.americananthro.org/): Major anthropology conference with sessions on cultural evolution.
 
 ## Organizations
 
