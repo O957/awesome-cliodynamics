@@ -12,7 +12,9 @@ _A curated list of awesome resources for cliodynamics._
 
 </details>
 
-![](./assets/cliodynamics.jpg)
+![](./assets/cliodynamics.jpg) [^image_attribution]
+
+[^image_attribution]: Image used under the [Unsplash License](https://unsplash.com/license), i.e. "All images can be downloaded and used for free", "Commercial and non-commercial purposes", and "No permission needed (though attribution is appreciated!)". Image Link: <https://unsplash.com/photos/group-of-people-in-museum-R01A9PJQNIM>. Image Description: "Travelers in the terminal". Image Photographer: [Callum Chapman](https://unsplash.com/@callumchapman).
 
 ## Contents
 
