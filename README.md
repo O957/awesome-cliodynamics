@@ -12,6 +12,8 @@ _A curated list of awesome resources for cliodynamics._
 
 </details>
 
+![](./assets/cliodynamics.jpg)
+
 ## Contents
 
 - [Books](#books)
@@ -79,13 +81,7 @@ _A curated list of awesome resources for cliodynamics._
 
 ## Researchers
 
-- [Peter Turchin](http://peterturchin.com/): Founding figure of cliodynamics at Complexity Science Hub Vienna.
-- [Sergey Nefedov](https://en.wikipedia.org/wiki/Sergey_Nefedov): Russian historian who co-authored Secular Cycles with Turchin.
-- [Harvey Whitehouse](https://www.anthro.ox.ac.uk/people/professor-harvey-whitehouse): Oxford anthropologist studying ritual and social cohesion in Seshat project.
-- [Pieter François](https://evolution-institute.org/profile/pieter-francois/): Evolution Institute researcher working on Seshat databank.
-- [Daniel Hoyer](https://www.peabody.yale.edu/staff-directory/daniel-hoyer): Yale researcher analyzing historical complexity patterns.
-- [James Bennett](https://www.santafe.edu/people/profile/james-bennett): Santa Fe Institute researcher studying long-term social dynamics.
-- [Thomas Currie](https://evolution-institute.org/profile/thomas-currie/): Evolutionary anthropologist studying cultural evolution.
+- [Peter Savage](https://github.com/pesavage): Research on moralizing gods and cultural evolution using Seshat databank.
 
 ## Courses
 
