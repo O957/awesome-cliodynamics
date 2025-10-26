@@ -30,6 +30,7 @@ _A curated list of awesome resources for cliodynamics._
 - [Software](#software)
 - [Websites](#websites)
 - [Educational Resources](#educational-resources)
+- [Contribution](#contribution)
 
 ## Books
 
@@ -105,6 +106,10 @@ _A curated list of awesome resources for cliodynamics._
 - [Cliodynamica Blog](https://cliodynamica.wordpress.com/): Commentary on cliodynamics and related fields.
 
 ## Educational Resources
+
+## Contribution
+
+Notice anything missing that would be a good fit? If interested in contributing, please see the [contributing file](./CONTRIBUTING.md) for further direction.
 
 ## License
 
