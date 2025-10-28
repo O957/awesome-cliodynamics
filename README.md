@@ -90,6 +90,7 @@ _A curated list of awesome resources for cliodynamics._
 ## Researchers
 
 1. [Peter Savage](https://github.com/pesavage): Research on moralizing gods and cultural evolution using Seshat databank.
+2. ...
 
 ## Courses
 
