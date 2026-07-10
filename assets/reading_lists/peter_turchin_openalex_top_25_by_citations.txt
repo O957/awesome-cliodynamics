@@ -1,0 +1,226 @@
+Top 25 Papers by Peter Turchin
+Generated: 2025-10-28 02:42:52
+================================================================================
+
+1. Complex Dynamics in Ecological Time Series
+   Authors: Peter Turchin, Andrew Taylor
+   Year: 1992
+   Citations: 582
+   Source: Ecology
+   DOI: https://doi.org/10.2307/1938740
+   URL: https://doi.org/10.2307/1938740
+   Open Access: No
+
+2. Chaos in Ecology: Is Mother Nature a Strange Attractor?
+   Authors: Alan Hastings, Carole L. Hom, Stephen P. Ellner, Peter Turchin, Hubert Charles
+   Year: 1993
+   Citations: 554
+   Source: Annual Review of Ecology and Systematics
+   DOI: https://doi.org/10.1146/annurev.es.24.110193.000245
+   URL: https://doi.org/10.1146/annurev.es.24.110193.000245
+   Open Access: No
+
+3. Population oscillations of boreal rodents: regulation by mustelid predators leads to chaos
+   Authors: Ilkka Hanski, Peter Turchin, Erkki Korpimäki, Heikki Henttonen
+   Year: 1993
+   Citations: 483
+   Source: Nature
+   DOI: https://doi.org/10.1038/364232a0
+   URL: https://doi.org/10.1038/364232a0
+   Open Access: No
+
+4. Quantitative analysis of movement
+   Authors: Peter Turchin
+   Year: 2010
+   Citations: 461
+   Source: Taylor & Francis eBooks
+   DOI: https://doi.org/10.4324/9780203462027_chapter_4
+   URL: https://doi.org/10.4324/9780203462027_chapter_4
+   Open Access: No
+
+5. Chaos in a Noisy World: New Methods and Evidence from Time-Series Analysis
+   Authors: Stephen P. Ellner, Peter Turchin
+   Year: 1995
+   Citations: 455
+   Source: The American Naturalist
+   DOI: https://doi.org/10.1086/285744
+   URL: https://doi.org/10.1086/285744
+   Open Access: No
+
+6. SMALL-RODENT DYNAMICS AND PREDATION
+   Authors: Ilkka Hanski, Heikki Henttonen, Erkki Korpimäki, Lauri Oksanen, Peter Turchin
+   Year: 2001
+   Citations: 454
+   Source: Ecology
+   DOI: https://doi.org/10.1890/0012-9658(2001)082[1505:srdap]2.0.co;2
+   URL: https://doi.org/10.1890/0012-9658(2001)082[1505:srdap]2.0.co;2
+   Open Access: No
+
+7. Rarity of density dependence or population regulation with lags?
+   Authors: Peter Turchin
+   Year: 1990
+   Citations: 450
+   Source: Nature
+   DOI: https://doi.org/10.1038/344660a0
+   URL: https://doi.org/10.1038/344660a0
+   Open Access: No
+
+8. Population Regulation: Old Arguments and a New Synthesis
+   Authors: Peter Turchin
+   Year: 1995
+   Citations: 411
+   Source: Elsevier eBooks
+   DOI: https://doi.org/10.1016/b978-012159270-7/50003-8
+   URL: https://doi.org/10.1016/b978-012159270-7/50003-8
+   Open Access: No
+
+9. Scale and heterogeneity in habitat selection by elk in Yellowstone National Park
+   Authors: Mark S. Boyce, Julie S. Mao, Evelyn H. Merrill, Daniel Fortin, Monica G. Turner
+   Year: 2003
+   Citations: 387
+   Source: Ecoscience
+   DOI: https://doi.org/10.1080/11956860.2003.11682790
+   URL: https://doi.org/10.1080/11956860.2003.11682790
+   Open Access: No
+
+10. Population Regulation: A Synthetic View
+   Authors: Peter Turchin
+   Year: 1999
+   Citations: 378
+   Source: Oikos
+   DOI: https://doi.org/10.2307/3546876
+   URL: https://doi.org/10.2307/3546876
+   Open Access: No
+
+11. Complex Population Dynamics
+   Authors: Peter Turchin
+   Year: 2003
+   Citations: 364
+   Source: Unknown
+   Open Access: No
+
+12. Historical Dynamics: Why States Rise and Fall
+   Authors: Peter Turchin
+   Year: 2004
+   Citations: 359
+   Source: Princeton University Press eBooks
+   DOI: https://doi.org/10.1515/9781400889310
+   URL: https://doi.org/10.1515/9781400889310
+   Open Access: No
+
+13. WHY DO POPULATIONS CYCLE? A SYNTHESIS OF STATISTICAL AND MECHANISTIC MODELING APPROACHES
+   Authors: Bruce E. Kendall, Cheryl J. Briggs, William W. Murdoch, Peter Turchin, Stephen P. Ellner
+   Year: 1999
+   Citations: 357
+   Source: Ecology
+   DOI: https://doi.org/10.1890/0012-9658(1999)080[1789:wdpcas]2.0.co;2
+   URL: https://doi.org/10.1890/0012-9658(1999)080[1789:wdpcas]2.0.co;2
+   Open Access: Yes
+
+14. War, space, and the evolution of Old World complex societies
+   Authors: Peter Turchin, Thomas E. Currie, Edward Turner, Sergey Gavrilets
+   Year: 2013
+   Citations: 326
+   Source: Proceedings of the National Academy of Sciences
+   DOI: https://doi.org/10.1073/pnas.1308825110
+   URL: https://doi.org/10.1073/pnas.1308825110
+   Open Access: Yes
+
+15. An Empirically Based Model for Latitudinal Gradient in Vole Population Dynamics
+   Authors: Peter Turchin, Ilkka Hanski
+   Year: 1997
+   Citations: 325
+   Source: The American Naturalist
+   DOI: https://doi.org/10.1086/286027
+   URL: https://doi.org/10.1086/286027
+   Open Access: No
+
+16. MASTING BY EIGHTEEN NEW ZEALAND PLANT SPECIES: THE ROLE OF TEMPERATURE AS A SYNCHRONIZING CUE
+   Authors: Eric M. Schauber, Dave Kelly, Peter Turchin, Chris Simon, William G. Lee
+   Year: 2002
+   Citations: 295
+   Source: Ecology
+   DOI: https://doi.org/10.1890/0012-9658(2002)083[1214:mbenzp]2.0.co;2
+   URL: https://doi.org/10.1890/0012-9658(2002)083[1214:mbenzp]2.0.co;2
+   Open Access: No
+
+17. Quantitative historical analysis uncovers a single dimension of complexity that structures global variation in human social organization
+   Authors: Peter Turchin, Thomas E. Currie, Harvey Whitehouse, Pieter François, Kevin Feeney
+   Year: 2017
+   Citations: 267
+   Source: Proceedings of the National Academy of Sciences
+   DOI: https://doi.org/10.1073/pnas.1708800115
+   URL: https://doi.org/10.1073/pnas.1708800115
+   Open Access: Yes
+
+18. Does population ecology have general laws?
+   Authors: Peter Turchin
+   Year: 2001
+   Citations: 246
+   Source: Oikos
+   DOI: https://doi.org/10.1034/j.1600-0706.2001.11310.x
+   URL: https://doi.org/10.1034/j.1600-0706.2001.11310.x
+   Open Access: No
+
+19. RETRACTED ARTICLE: Complex societies precede moralizing gods throughout world history
+   Authors: Harvey Whitehouse, Pieter François, Patrick E. Savage, Thomas E. Currie, Kevin Feeney
+   Year: 2019
+   Citations: 232
+   Source: Nature
+   DOI: https://doi.org/10.1038/s41586-019-1043-4
+   URL: https://doi.org/10.1038/s41586-019-1043-4
+   Open Access: No
+
+20. Aggregation in Aphis Varians: An Effective Strategy for Reducing Predation Risk
+   Authors: Peter Turchin, Peter Kareiva
+   Year: 1989
+   Citations: 231
+   Source: Ecology
+   DOI: https://doi.org/10.2307/1941369
+   URL: https://doi.org/10.2307/1941369
+   Open Access: No
+
+21. Quantifying Dispersal of Southern Pine Beetles with Mark‐Recapture Experiments and a Diffusion Model
+   Authors: Peter Turchin, William T. Thoeny
+   Year: 1993
+   Citations: 223
+   Source: Ecological Applications
+   DOI: https://doi.org/10.2307/1941801
+   URL: https://doi.org/10.2307/1941801
+   Open Access: No
+
+22. War and peace and war: the life cycles of imperial nations
+   Authors: Peter Turchin
+   Year: 2006
+   Citations: 220
+   Source: Choice Reviews Online
+   DOI: https://doi.org/10.5860/choice.43-6697
+   URL: https://doi.org/10.5860/choice.43-6697
+   Open Access: No
+
+23. Identifying the density‐dependent structure underlying ecological time series
+   Authors: Alan Berryman, Peter Turchin
+   Year: 2001
+   Citations: 214
+   Source: Oikos
+   DOI: https://doi.org/10.1034/j.1600-0706.2001.920208.x
+   URL: https://doi.org/10.1034/j.1600-0706.2001.920208.x
+   Open Access: No
+
+24. A theory for formation of large empires
+   Authors: Peter Turchin
+   Year: 2009
+   Citations: 209
+   Source: Journal of Global History
+   DOI: https://doi.org/10.1017/s174002280900312x
+   URL: https://doi.org/10.1017/s174002280900312x
+   Open Access: No
+
+25. Dynamical Role of Predators in Population Cycles of a Forest Insect: An Experimental Test
+   Authors: Peter Turchin, A.D. Taylor, John D. Reeve
+   Year: 1999
+   Citations: 208
+   Source: Science
+   DOI: https://doi.org/10.1126/science.285.5430.1068
+   URL: https://doi.org/10.1126/science.285.5430.1068
+   Open Access: No
