@@ -1,0 +1,228 @@
+Top 25 Papers Citation Search Results
+Generated: 2025-10-28 02:42:19
+================================================================================
+
+1. World Tourism Organization
+   Authors: Unknown
+   Year: 2017
+   Citations: 393
+   Source: Routledge eBooks
+   DOI: https://doi.org/10.4324/9781315129310-10
+   URL: https://doi.org/10.4324/9781315129310-10
+   Open Access: Yes
+
+2. Detecting the historical roots of research fields by reference publication year spectroscopy (<scp>RPYS</scp>)
+   Authors: Werner Marx, Lutz Bornmann, Andreas Barth, Loet Leydesdorff
+   Year: 2013
+   Citations: 211
+   Source: Journal of the Association for Information Science and Technology
+   DOI: https://doi.org/10.1002/asi.23089
+   URL: https://doi.org/10.1002/asi.23089
+   Open Access: Yes
+
+3. Advancing the Integration of History and Ecology for Conservation
+   Authors: Péter Szabó, Radim Hédl
+   Year: 2011
+   Citations: 134
+   Source: Conservation Biology
+   DOI: https://doi.org/10.1111/j.1523-1739.2011.01710.x
+   URL: https://doi.org/10.1111/j.1523-1739.2011.01710.x
+   Open Access: No
+
+4. Corporate Scandals and Regulation
+   Authors: Luzi Hail, Ahmed Tahoun, Clare Wang
+   Year: 2018
+   Citations: 97
+   Source: Journal of Accounting Research
+   DOI: https://doi.org/10.1111/1475-679x.12201
+   URL: https://doi.org/10.1111/1475-679x.12201
+   Open Access: Yes
+
+5. Understanding Collapse
+   Authors: Guy D. Middleton
+   Year: 2017
+   Citations: 93
+   Source: Unknown
+   DOI: https://doi.org/10.1017/9781316584941
+   URL: https://doi.org/10.1017/9781316584941
+   Open Access: Yes
+
+6. Arise 'cliodynamics'
+   Authors: Peter Turchin
+   Year: 2008
+   Citations: 81
+   Source: Nature
+   DOI: https://doi.org/10.1038/454034a
+   URL: https://doi.org/10.1038/454034a
+   Open Access: Yes
+
+7. A socio-technical transitions perspective for assessing future sustainability following the COVID-19 pandemic
+   Authors: Peter Wells, Wessam Abouarghoub, Stephen Pettit, Anthony Kenneth Charles Beresford
+   Year: 2020
+   Citations: 68
+   Source: Sustainability Science Practice and Policy
+   DOI: https://doi.org/10.1080/15487733.2020.1763002
+   URL: https://doi.org/10.1080/15487733.2020.1763002
+   Open Access: Yes
+
+8. Societal collapse: A literature review
+   Authors: Danilo Brozović
+   Year: 2022
+   Citations: 51
+   Source: Futures
+   DOI: https://doi.org/10.1016/j.futures.2022.103075
+   URL: https://doi.org/10.1016/j.futures.2022.103075
+   Open Access: Yes
+
+9. Human cycles: History as science
+   Authors: Laura Spinney
+   Year: 2012
+   Citations: 48
+   Source: Nature
+   DOI: https://doi.org/10.1038/488024a
+   URL: https://doi.org/10.1038/488024a
+   Open Access: Yes
+
+10. Stability of democracies: a complex systems perspective
+   Authors: Karoline Wiesner, Alvin Birdi, Tina Eliassi‐Rad, H. Farrell, David García
+   Year: 2018
+   Citations: 45
+   Source: European Journal of Physics
+   DOI: https://doi.org/10.1088/1361-6404/aaeb4d
+   URL: https://doi.org/10.1088/1361-6404/aaeb4d
+   Open Access: Yes
+
+11. 20,000 years of societal vulnerability and adaptation to climate change in southwest Asia
+   Authors: Matthew D. Jones, Nizar Abu-Jaber, Ahmad AlShdaifat, Douglas Baird, Benjamin I. Cook
+   Year: 2019
+   Citations: 45
+   Source: Wiley Interdisciplinary Reviews Water
+   DOI: https://doi.org/10.1002/wat2.1330
+   URL: https://doi.org/10.1002/wat2.1330
+   Open Access: Yes
+
+12. Modeling Social Pressures Toward Political Instability in the United Kingdom after 1960: A Demographic Structural Analysis
+   Authors: Oscar Ortmans, Elisabetta Mazzeo, Кира Мещерина, Andrey Korotayev
+   Year: 2017
+   Citations: 41
+   Source: Cliodynamics The Journal of Quantitative History and Cultural Evolution
+   DOI: https://doi.org/10.21237/c7clio8237313
+   URL: https://doi.org/10.21237/c7clio8237313
+   Open Access: Yes
+
+13. A Systematic Assessment of “Axial Age” Proposals Using Global Comparative Historical Evidence
+   Authors: Daniel Mullins, Daniel Hoyer, Christina Collins, Thomas E. Currie, Kevin Feeney
+   Year: 2018
+   Citations: 37
+   Source: American Sociological Review
+   DOI: https://doi.org/10.1177/0003122418772567
+   URL: https://doi.org/10.1177/0003122418772567
+   Open Access: Yes
+
+14. The Role of Ritual in the Evolution of Social Complexity: Five Predictions and a Drum Roll
+   Authors: Harvey Whitehouse, Pieter François, Peter Turchin
+   Year: 2015
+   Citations: 35
+   Source: Cliodynamics The Journal of Quantitative History and Cultural Evolution
+   DOI: https://doi.org/10.21237/c7clio6229624
+   URL: https://doi.org/10.21237/c7clio6229624
+   Open Access: Yes
+
+15. Understanding Radicalization and Engagement in Terrorism through Religious Conversion Motifs
+   Authors: Neil Ferguson, Eve Binks
+   Year: 2015
+   Citations: 35
+   Source: Journal of Strategic Security
+   DOI: https://doi.org/10.5038/1944-0472.8.1.1430
+   URL: https://doi.org/10.5038/1944-0472.8.1.1430
+   Open Access: Yes
+
+16. Deconstructing martial arts
+   Authors: Paul Bowman
+   Year: 2019
+   Citations: 30
+   Source: Unknown
+   DOI: https://doi.org/10.18573/book1
+   URL: https://doi.org/10.18573/book1
+   Open Access: Yes
+
+17. Considering population and war: a critical and neglected aspect of conflict studies
+   Authors: Bradley A. Thayer
+   Year: 2009
+   Citations: 28
+   Source: Philosophical Transactions of the Royal Society B Biological Sciences
+   DOI: https://doi.org/10.1098/rstb.2009.0151
+   URL: https://doi.org/10.1098/rstb.2009.0151
+   Open Access: Yes
+
+18. Demographic Structural Theory: 25 Years On
+   Authors: Jack Α. Goldstone
+   Year: 2017
+   Citations: 27
+   Source: Cliodynamics The Journal of Quantitative History and Cultural Evolution
+   DOI: https://doi.org/10.21237/c7clio8237450
+   URL: https://doi.org/10.21237/c7clio8237450
+   Open Access: Yes
+
+19. Evolutionary transition from biological to social systems via generation of reflexive models of externality
+   Authors: Abir U. Igamberdiev
+   Year: 2017
+   Citations: 27
+   Source: Progress in Biophysics and Molecular Biology
+   DOI: https://doi.org/10.1016/j.pbiomolbio.2017.06.017
+   URL: https://doi.org/10.1016/j.pbiomolbio.2017.06.017
+   Open Access: No
+
+20. The 2010 structural-demographic forecast for the 2010–2020 decade: A retrospective assessment
+   Authors: Peter Turchin, Andrey Korotayev
+   Year: 2020
+   Citations: 27
+   Source: PLoS ONE
+   DOI: https://doi.org/10.1371/journal.pone.0237458
+   URL: https://doi.org/10.1371/journal.pone.0237458
+   Open Access: Yes
+
+21. Improving Curated Web-Data Quality with Structured Harvesting and Assessment
+   Authors: Kevin Feeney, Declan O’Sullivan, Wei Tai, Rob Brennan
+   Year: 2014
+   Citations: 26
+   Source: International Journal on Semantic Web and Information Systems
+   DOI: https://doi.org/10.4018/ijswis.2014040103
+   URL: https://doi.org/10.4018/ijswis.2014040103
+   Open Access: Yes
+
+22. Modelling social norms: an integration of the norm-utility approach with beliefs dynamics
+   Authors: Sergey Gavrilets, Denis Tverskoi, Ángel Sánchez
+   Year: 2024
+   Citations: 24
+   Source: Philosophical Transactions of the Royal Society B Biological Sciences
+   DOI: https://doi.org/10.1098/rstb.2023.0027
+   URL: https://doi.org/10.1098/rstb.2023.0027
+   Open Access: Yes
+
+23. Sociotype and cultural evolution: The acceleration of cultural change alongside industrial revolutions
+   Authors: Pedro C. Marijuán, Jorge Navarro
+   Year: 2020
+   Citations: 22
+   Source: Biosystems
+   DOI: https://doi.org/10.1016/j.biosystems.2020.104170
+   URL: https://doi.org/10.1016/j.biosystems.2020.104170
+   Open Access: Yes
+
+24. Linking “Micro” to “Macro” Models of State Breakdown to Improve Methods for Political Forecasting
+   Authors: Peter Turchin, Sergey Gavrilets, Jack Α. Goldstone
+   Year: 2017
+   Citations: 22
+   Source: Cliodynamics The Journal of Quantitative History and Cultural Evolution
+   DOI: https://doi.org/10.21237/c7clio8237429
+   URL: https://doi.org/10.21237/c7clio8237429
+   Open Access: Yes
+
+25. I-Ching, dyadic groups of binary numbers and the geno-logic coding in living bodies
+   Authors: Zhengbing Hu, Sergey Petoukhov, Elena Petukhova
+   Year: 2017
+   Citations: 22
+   Source: Progress in Biophysics and Molecular Biology
+   DOI: https://doi.org/10.1016/j.pbiomolbio.2017.08.018
+   URL: https://doi.org/10.1016/j.pbiomolbio.2017.08.018
+   Open Access: No
